@@ -2,7 +2,7 @@
 
 ## Louise's project: two technical new analyses: outcomes based on goals and outcomes based on launch date
 
-### This project has the purpose to help Louise on plan her campaign by making the data more readable, searchable and to perform analysis that can bring her some insights.
+- This project has the purpose to help Louise on plan her campaign by making the data more readable, searchable and to perform analysis that can bring her some insights.
 
 ## Analysis and Challenges
 
